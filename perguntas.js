@@ -23,7 +23,7 @@ criaCartao(
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Robótica',
+    'Quais são as Três Leis da Robótica??',
+    ' Criadas pelo escritor Isaac Asimov, determinam regras de segurança para a convivência entre humanos e máquinas'
 )
