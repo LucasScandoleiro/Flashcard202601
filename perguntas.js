@@ -5,9 +5,9 @@ criaCartao(
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Robótica',
+    'Qual é a função da robótica?',
+    'A robótica serve para automatizar tarefas, aumentar a precisão e a segurança, e realizar ações que fogem da capacidade humana'
 )
 
 criaCartao(
