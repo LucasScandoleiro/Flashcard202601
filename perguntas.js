@@ -1,7 +1,7 @@
 criaCartao(
     'Robótica',
     'O que é  robótica?',
-    'O Python é uma linguagem de programação'
+    'A robótica é uma área multidisciplinar que une a engenharia, a mecânica, a eletrônica e a ciência da computação'
 )
 
 criaCartao(
