@@ -17,9 +17,9 @@ criaCartao(
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Robótica',
+    'O que é um robô?',
+    'Uma máquina automática capaz de realizar tarefas, independente de ter formato humanoide'
 )
 
 criaCartao(
